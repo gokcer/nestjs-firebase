@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/Nhogs/nestjs-firebase#readme",
   "devDependencies": {
-    "@nestjs/common": "^9.0.3",
+    "@nestjs/common": "^10.0.0",
     "@nestjs/config": "^2.2.0",
     "@nestjs/core": "^9.0.3",
     "@nestjs/mapped-types": "^1.1.0",
